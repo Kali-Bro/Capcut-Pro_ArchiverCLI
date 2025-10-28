@@ -1,6 +1,6 @@
-# CC-Pro_ArchiverCLI
+# **CC-Pro_ArchiverCLI**
 
-CapCutHelper is a Windows batch script designed for CapCut users to automate finding and opening the latest `combination` folder in CapCut’s project directory (`com.lveditor.draft`). It includes a tutorial to create and preprocess Compound Clips (subprojects) using CapCut’s free features, enabling users to export professional-grade edited clips without a CapCut Pro subscription.
+CC-Pro_ArchiverCLI is a Windows batch script designed for CapCut users to automate finding and opening the latest `combination` folder in CapCut’s project directory (`com.lveditor.draft`). It includes a tutorial to create and preprocess Compound Clips (subprojects) using CapCut’s free features, enabling users to export professional-grade edited clips without a CapCut Pro subscription.
 
 ## Features
 - **Automated Folder Search**: Locates the most recently modified `combination` folder where Compound Clip data is stored.
